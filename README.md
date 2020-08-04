@@ -2,7 +2,7 @@
 
 This is a collection of some projects that demonstrate my Data Science knowledge. 
 
-Here are some graphs looking at [fake Sales Data](Sales Data.md).
+Here are some graphs looking at [fake Sales Data](Portfolio(1).md).
 
 You can reach me at:
 [akotzeff@dal.ca](mailto:akotzeff@dal.ca)
