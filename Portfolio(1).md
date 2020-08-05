@@ -67,7 +67,8 @@ plt.ylabel("Number of Orders")
 
 
 
-![png](Portfolio%20_files/Portfolio%20_6_1.png)
+<img width="717" alt="countplot2" src="https://user-images.githubusercontent.com/67394270/89363954-6e7c3780-d69f-11ea-9c81-2e8406bc17eb.png">
+
 
 
 
@@ -91,7 +92,8 @@ plt.show()
 
 
 
-![png](Portfolio%20_files/Portfolio%20_7_0.png)
+
+<img width="608" alt="percentplot" src="https://user-images.githubusercontent.com/67394270/89363970-74721880-d69f-11ea-9210-c2f905ae5360.png">
 
 
 
