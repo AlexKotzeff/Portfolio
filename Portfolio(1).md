@@ -37,7 +37,7 @@ plt.ylabel("Number of Orders")
 
 
 
-
+<img width="724" alt="countplot1" src="https://user-images.githubusercontent.com/67394270/89363876-3543c780-d69f-11ea-80d9-2b0b28595a5c.png">
 
 
 
