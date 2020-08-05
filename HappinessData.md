@@ -33,7 +33,8 @@ plt.title("Distribution of Scoring For Each Category")
 
 
 
-![png](Happiness%20Data%20_files/Happiness%20Data%20_3_1.png)
+<img width="727" alt="boxplot1" src="https://user-images.githubusercontent.com/67394270/89364104-c1ee8580-d69f-11ea-8326-e940b48e1f40.png">
+
 
 
 
@@ -56,7 +57,8 @@ plt.ylabel("Perceptions of Curruption (Higher Scores are Favourable)")
 
 
 
-![png](Happiness%20Data%20_files/Happiness%20Data%20_5_1.png)
+<img width="352" alt="scatter1" src="https://user-images.githubusercontent.com/67394270/89364106-c3b84900-d69f-11ea-9faf-43f07b5a9a2c.png">
+
 
 
 
@@ -77,7 +79,7 @@ plt.title("Generosity vs. Happiness Score")
 
 
 
-![png](Happiness%20Data%20_files/Happiness%20Data%20_6_1.png)
+<img width="352" alt="scatter2" src="https://user-images.githubusercontent.com/67394270/89364111-c61aa300-d69f-11ea-8d63-523a65d1e666.png">
 
 
 
