@@ -40,8 +40,6 @@ plt.ylabel("Number of Orders")
 
 
 
-![png](countplot1.png)
-
 
 
 
