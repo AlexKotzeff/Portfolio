@@ -84,4 +84,5 @@ plt.title("Generosity vs. Happiness Score")
 
 
 **Understanding From EDA**
+
 The two categories with the least variability were Generosity and Perception of Corruption. I believed it would be important to take a closer look at these categories to see if they are a good indicator for the final score, or if a different category should be added that whould be more accurate. The line of best fit for the Generosity category was only slightly positive compared to the Perception of Corruption plot. Because the Generosity scores showed to have a very small indication of the final Happiness score, this category would likely be the best factor to replace. 
